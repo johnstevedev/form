@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tag HTML - Image</title>
+</head>
+<body>
+    <!-- Imagens -->
+    <h2>Imagens</h2>
+    <img src="img/google.svg" alt="logo do google com letras coloridas" title="Logo da Google" height="175px" width="350px">
+    
+    <img src="https://www.costacruzeiros.com/content/dam/costa/costa-magazine/article-images/hawaii-beaches/6-spiaggia-kaanapali.jpg.image.694.390.low.jpg" alt="praia do Havaí ao cair da tarde com o sol de fundo" title="Praia do Havaí" height="200px" width="400px">
+</body>
+</html>
